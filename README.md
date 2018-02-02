@@ -1,4 +1,5 @@
 # tetryonreactor.github.io
 Tetryon web
 
-https://tetryonreactor.github.io/
+http://tetryonreactor.com/
+(http://tetryonreactor.github.io/)
